@@ -20,7 +20,7 @@
 - Node.js  
 - Express.js  
 - Bootstrap  
-- Git & GitHub  
+- GitHub  
 
 ---
 
