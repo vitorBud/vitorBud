@@ -1,6 +1,6 @@
 # 🖥️ Vítor Gomes de Alcântara
 
-🚀 Desenvolvedor Front-end | HTML | CSS | JavaScript  
+🚀 Desenvolvedor Front-end e Back-end | HTML | CSS | JavaScript | Python | Type-Script  
 
 
 ## 🚀 Tecnologias e Ferramentas  
