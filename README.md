@@ -1,33 +1,64 @@
-# 🖥️ Vítor Gomes de Alcântara
+<h1 align="center">👨‍💻 Vítor Gomes de Alcântara</h1>
 
-🚀 Desenvolvedor Front-end e Back-end | HTML | CSS | JavaScript | Python | Type-Script  
+<p align="center">
+  🚀 Desenvolvedor Full Stack em formação • Apaixonado por tecnologia, games e soluções criativas!
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vitorBud&style=flat-square&color=blue" alt="Profile views" />
+</p>
 
-## 🚀 Tecnologias e Ferramentas  
+---
+
+## 🧰 Tecnologias e Ferramentas
 
 <div style="display: flex; gap: 10px;">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
 </div>
 
 ---
 
-## 🔧 Frameworks e Ferramentas  
+## 🛠️ Frameworks & Ferramentas
 
-- Node.js  
-- Express.js  
-- Bootstrap  
-- GitHub  
+- 🔧 **Node.js**, **Express.js**
+- 💅 **Bootstrap**, **Styled Components**
+- 🌐 **React (em andamento)**, **React Native (em andamento)**
+- 🧪 **Jest**, **Cypress**, **PyTest**
+- 💻 **VSCode**, **Git & GitHub**
 
 ---
 
-## 📫 Contato  
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=vitorBud&show_icons=true&theme=radical" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorBud&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🐍 Jogo da Cobrinha
+
+> **Interaja com seu perfil enquanto se diverte!**
+
+<p align="center">
+  <img src="https://github.com/vitorBud/vitorBud/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+---
+
+## 📫 Fale comigo!
 
 <a href="mailto:vitor.probem@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/-vitor.probem@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+---
+
+> “Transformando código em solução, e sonhos em realidade 🚀”
