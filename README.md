@@ -41,21 +41,7 @@
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorBud&layout=compact&theme=radical" />
 </p>
 
----
 
-<!-- atualizando pra rodar snake -->
-
-
-## 🐍 Jogo da Cobrinha
-
-> **Interaja com seu perfil enquanto se diverte!**
-
-<p align="center">
-  <img src="https://github.com/vitorBud/vitorBud/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
-
----
 
 ## 📫 Fale comigo!
 
