@@ -10,6 +10,14 @@
 
 ---
 
+## 🧠 Um pouco de movimento por aqui!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
+</p>
+
+---
+
 ## 🧰 Tecnologias e Ferramentas
 
 <div style="display: flex; gap: 10px;">
@@ -41,7 +49,7 @@
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorBud&layout=compact&theme=radical" />
 </p>
 
-
+---
 
 ## 📫 Fale comigo!
 
