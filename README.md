@@ -51,6 +51,7 @@
   <img src="https://github.com/vitorBud/vitorBud/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
+
 ---
 
 ## 📫 Fale comigo!
