@@ -43,6 +43,9 @@
 
 ---
 
+<!-- atualizando pra rodar snake -->
+
+
 ## 🐍 Jogo da Cobrinha
 
 > **Interaja com seu perfil enquanto se diverte!**
