@@ -8,15 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=vitorBud&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
----
-
-## 🧠 Um pouco de movimento por aqui!
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
-</p>
-
----
 
 ## 🧰 Tecnologias e Ferramentas
 
@@ -56,6 +47,18 @@
 <a href="mailto:vitor.probem@gmail.com">
   <img src="https://img.shields.io/badge/-vitor.probem@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+---
+
+
+
+---
+
+## 🧠 Um pouco de movimento por aqui!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
+</p>
 
 ---
 
