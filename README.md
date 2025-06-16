@@ -27,7 +27,7 @@
 
 - 🔧 **Node.js**, **Express.js**
 - 💅 **Bootstrap**, **Styled Components**
-- 🌐 **React (em andamento)**, **React Native (em andamento)**
+- 🌐 **React (em andamento)**, **React Native (em andamento)**, **Typpe-Script**
 - 🧪 **Jest**, **Cypress**, **PyTest**
 - 💻 **VSCode**, **Git & GitHub**
 
