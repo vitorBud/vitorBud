@@ -58,15 +58,13 @@
 ## 🕹️ Pac-Man Time!
 
 > Quer um pouco de diversão? Jogue Pac-Man diretamente daqui! 👇
+> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorBud/vitorBud/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorBud/vitorBud/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vitorBud/vitorBud/output/pacman-contribution-graph.svg">
+</picture>
 
-<p align="center">
-  <a href="https://www.google.com/search?q=pacman" target="_blank">
-    <img src="https://user-images.githubusercontent.com/741969/176937196-59578d1d-0079-4df9-9a2f-6ad6c1f6d6c0.gif" alt="Pacman" width="200" />
-  </a>
-</p>
-
-<p align="center"><strong>Clique no Pac-Man para jogar!</strong></p>
-
----
+###
 
 > “Transformando código em solução, e sonhos em realidade 🚀”
