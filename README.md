@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Vítor Gomes de Alcântara</h1>
 
 <p align="center">
-  🚀 Desenvolvedor Full Stack em formação <br>
+  🚀 Desenvolvedor<br>
   🎮 Apaixonado por tecnologia, games e soluções criativas!
 </p>
 
