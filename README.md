@@ -28,7 +28,7 @@
 ## 🛠️ Frameworks & Ferramentas
 
 - 🔧 **Node.js**, **Express.js**
-- 💅 **Bootstrap**, **Styled Components**
+- 👾 **Bootstrap**, **Styled Components**
 - 🌐 **React**, **React Native**, **TypeScript**
 - 🧪 **Jest**, **Cypress**, **PyTest**
 - 💻 **VSCode**, **Git & GitHub**
